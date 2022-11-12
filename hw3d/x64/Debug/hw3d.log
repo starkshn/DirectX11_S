@@ -1,0 +1,5 @@
+﻿  WinMain.cpp
+  Window.cpp
+C:\Users\stark\Desktop\CPP\DirectX11\hw3d\hw3d\WinMain.cpp(68,13): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\stark\Desktop\CPP\DirectX11\hw3d\hw3d\WinMain.cpp(71,12): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  hw3d.vcxproj -> C:\Users\stark\Desktop\CPP\DirectX11\hw3d\x64\Debug\hw3d.exe
